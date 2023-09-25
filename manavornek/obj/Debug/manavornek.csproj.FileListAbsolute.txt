@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\manavornek\manavornek\bin\Debug\manavornek.exe.config
+C:\Users\User\source\repos\manavornek\manavornek\bin\Debug\manavornek.exe
+C:\Users\User\source\repos\manavornek\manavornek\bin\Debug\manavornek.pdb
+C:\Users\User\source\repos\manavornek\manavornek\obj\Debug\manavornek.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\manavornek\manavornek\obj\Debug\manavornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\manavornek\manavornek\obj\Debug\manavornek.Form1.resources
+C:\Users\User\source\repos\manavornek\manavornek\obj\Debug\manavornek.Properties.Resources.resources
+C:\Users\User\source\repos\manavornek\manavornek\obj\Debug\manavornek.csproj.GenerateResource.cache
+C:\Users\User\source\repos\manavornek\manavornek\obj\Debug\manavornek.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\manavornek\manavornek\obj\Debug\manavornek.exe
+C:\Users\User\source\repos\manavornek\manavornek\obj\Debug\manavornek.pdb
